@@ -1,0 +1,26 @@
+{
+  "name": "es-playground",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "url": "",
+    "type": "git"
+  },
+  "author": "karmapa",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "babel-eslint": "7.0.0",
+    "babel-plugin-transform-async-to-generator": "6.5.0",
+    "babel-plugin-transform-decorators-legacy": "1.3.4",
+    "babel-polyfill": "6.7.4",
+    "babel-preset-es2015": "6.5.0",
+    "babel-preset-stage-0": "6.5.0",
+    "babel-register": "6.5.2"
+  }
+}
